@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.zhaoshuai.mydemocollection",
+    "sha256_cert_fingerprints":
+    ["68:6E:2B:69:83:D8:E6:10:93:1F:92:7E:1A:81:55:68:D6:FC:4E:E9:F8:F4:6E:86:7B:4E:BE:0C:9B:02:98:25"]
+  }
+}]
